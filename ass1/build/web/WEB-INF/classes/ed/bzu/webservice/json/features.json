@@ -1,0 +1,17 @@
+{
+    "feature1": {
+        "id":1,
+        "email":"weambader94@gmail.com",
+        "password": "weambader"
+    },
+    "feature2": {
+        "id":2,
+        "email":"ruba.alsheikh@gmail.com",
+        "password": "rubaalsheikh"
+    },
+    "feature3": {
+        "id":3,
+        "email":"wail.bader92@gmail.com",
+        "password": "wailbader"
+    }
+}

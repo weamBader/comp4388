@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<templates>
+    <template id= '1'>
+        <templatename>weambader</templatename>
+        <templatetime>24.003</templatetime>
+    </template>
+    <template id= '2'>
+        <templatename>rubaalsheikh</templatename>
+        <templatetime>28.0025</templatetime>
+    </template>
+    <template id= '3'>
+        <templatename>wailbader</templatename>
+        <templatetime>13.009</templatetime>
+    </template>
+</templates>

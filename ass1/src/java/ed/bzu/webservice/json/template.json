@@ -1,0 +1,17 @@
+{
+    "template1": {
+        "id":1,
+        "name":"weambader",
+        "time": "1.2"
+    },
+    "template2": {
+        "id":2,
+        "name":"rubaalsheikh",
+        "time": "1.1"
+    },
+    "template3": {
+        "id":3,
+        "name":"wailbader",
+        "time": ".9"
+    }
+}
